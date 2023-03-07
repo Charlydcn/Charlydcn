@@ -1,4 +1,7 @@
-### Hi there 👋
+Hey ! 👋
+  • 😶‍🌫️ I'm currently working on PHP basic algorithmic & OOP
+	• 🧠 In training at ELAN Formation in Strasbourg, France !
+	• 🗣️ Feel free to add/contact me on my LinkedIn !
 
 <!--
 **Charlydcn/Charlydcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
