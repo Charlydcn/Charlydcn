@@ -2,7 +2,7 @@ Hey ! 👋 <br>
 	• 😶‍🌫️ I'm currently working on PHP basic algorithmic & OOP <br>
 	• 🧠 In training at ELAN Formation in Strasbourg, France ! <br>
 	• 🗣️ Feel free to add/contact me on my LinkedIn ! <br>
-<img href="https://ibb.co/DV2DHmX">
+<img src="https://ibb.co/DV2DHmX">
 
 <!--
 **Charlydcn/Charlydcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
