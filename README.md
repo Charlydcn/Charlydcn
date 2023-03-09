@@ -1,9 +1,12 @@
+<br>
+<img src="https://i.ibb.co/sQLL52f/DALL-E-2023-03-07-20-53-18-Describe-the-entire-desired-image-in-the-generation-frame.png" border="0">
+<br>
+
 Hey ! 👋 <br>
 	• 😶‍ I'm currently working on PHP basic algorithmic & OOP <br>
 	• 🧠 In training at ELAN Formation in Strasbourg, France ! <br>
 	• 🗣️ Feel free to add/contact me on my LinkedIn ! <br>
-<br>
-<img src="https://i.ibb.co/sQLL52f/DALL-E-2023-03-07-20-53-18-Describe-the-entire-desired-image-in-the-generation-frame.png" border="0">
+
 
 <!--
 **Charlydcn/Charlydcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
