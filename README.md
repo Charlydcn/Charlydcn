@@ -1,7 +1,6 @@
 <br>
 <img src="https://i.ibb.co/sQLL52f/DALL-E-2023-03-07-20-53-18-Describe-the-entire-desired-image-in-the-generation-frame.png" border="0">
 <br>
-
 Hey ! 👋 <br>
 	• 😶‍ I'm currently working on PHP basic algorithmic & OOP <br>
 	• 🧠 In training at ELAN Formation in Strasbourg, France ! <br>
