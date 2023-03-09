@@ -1,5 +1,4 @@
-<br>
-<img style="width=100%" src="https://i.ibb.co/g9NyYzP/GITHUB-BANNER.png" alt="GITHUB-BANNER" border="0">
+<img style="width:100%" src="https://i.ibb.co/g9NyYzP/GITHUB-BANNER.png" alt="GITHUB-BANNER" border="0">
 <br>
 # Hey ! 👋 <br>
 	• 😶‍ I'm currently working on PHP basic algorithmic & OOP <br>
