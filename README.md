@@ -4,7 +4,6 @@
 
 
 <br>🧠 I'm currently in training at ELAN Formation in Strasbourg, France ! <br>
-🌱 Right now, i'm learning PHP algorithmics and OOP <br>
 🗣️ Feel free to add/contact me on my LinkedIn ! <br>
  
 
